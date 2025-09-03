@@ -1,2 +1,2 @@
 k = 50;
-furkan = 222;
+furkan = 1;
