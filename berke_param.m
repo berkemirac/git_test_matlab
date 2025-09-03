@@ -1,1 +1,1 @@
-berkecan = 5;
+berkecan = 2;
