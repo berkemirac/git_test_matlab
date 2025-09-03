@@ -1,1 +1,1 @@
-berkesins = 55;
+berkecan = 5;
